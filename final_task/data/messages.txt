@@ -1,0 +1,3 @@
+user_login|timestamp|name|email|message|rating
+admin|2025-03-30 12:30:00|Администратор|admin@test.ru|Отличный сайт!|5
+ivan|2025-03-30 13:15:00|Иван|ivan@mail.ru|Хорошо работает|4

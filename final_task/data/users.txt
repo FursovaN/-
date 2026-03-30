@@ -1,0 +1,4 @@
+login|password_hash|name|email|theme|created_at
+admin|password_hash(5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8)|Администратор|admin@test.ru|light|2025-03-30
+10:00:00revy|$2y$10$cD.nYK734kH3fpbFycQKT.FMVNweh7JEx5N6wmOG8WuH7U04IxeYy|Настя|nastyafursova24@gmail.com|light|2026-03-30 11:35:13
+revy|$2y$10$Ue.Es6PlO3KaY4oZrmfqCeM62FVoytjPApyB0q4KoTvClI/ITpHNm|Настя|nastyafursova24@gmail.com|light|2026-03-30 11:35:24
